@@ -1,3 +1,8 @@
+.selected {
+    -webkit-box-shadow:0px 0px 35px 31px rgba(217,219,167,0.92);
+    -moz-box-shadow: 0px 0px 35px 31px rgba(217,219,167,0.92);
+    box-shadow: 0px 0px 35px 31px rgba(217,219,167,0.92);
+}
 
 /* 
 
